@@ -1,0 +1,3 @@
+[submodule "scripts/hand_gesture_control/server/hand-gesture-recognition-using-mediapipe"]
+	path = scripts/hand_gesture_control/server/hand-gesture-recognition-using-mediapipe
+	url = git@github.com:saratrajput/hand-gesture-recognition-using-mediapipe.git
